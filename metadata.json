@@ -1,0 +1,6 @@
+{
+  "name": "Reglas de Acentuación | Շեշտադրման Կանոնները",
+  "description": "Իսպաներենի շեշտադրման կանոնների ինտերակտիվ ուղեցույց և թարգմանիչ հայերենով (Reglas de acentuación en español con traducción al armenio)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
